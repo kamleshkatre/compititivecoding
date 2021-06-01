@@ -1,0 +1,21 @@
+This directory will be having all the code repo for the questions mentioned in the DSA learning series from codechef
+Link :- https://www.codechef.com/LEARNDSA?order=desc&sortBy=successful_submissions
+
+This content various section
+
+No.	Topic	Hints	Live Session
+0	Easy Problems to Get Started	-	-
+1	Complexity Analysis + Basics Warm Up	Link	Part 1, Part 2
+2	Linear Data Structures	Link	Part 1, Part 2
+3	Standard Template Library (STL)	Link	Part 1
+4	Divide and Conquer + Binary Search	Link	Part 1
+5	Mathematics in Competitive Programming	Link	Part 1
+6	Basic optimisation techniques	Link	-
+-	Basic Math/Combinatorics Problems	-	Part 1, Part 2
+7	Dynamic Programming Basics	Link	Part 1, Part 2
+8	Graph Theory Basics	Link	Part 1, Part 2
+9	Advanced Data Structures	Link	Part 1
+10	Dynamic Programming Advanced	Link	-
+11	Graph Theory Advanced	-	-
+
+we will be having each directories for each no of content mention above
