@@ -35,7 +35,8 @@ class Solution(object):
             if flowerbed[-1]==0 and flowerbed[-2]==0:
                 zero_count=zero_count+1
                 flowerbed[-1]=1
-
+            if zero_count == n:
+                return  True
 
         if n <= zero_count:
             return True
